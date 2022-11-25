@@ -1,0 +1,14 @@
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\bin\Debug\netcoreapp3.1\The absolute difference.exe
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\bin\Debug\netcoreapp3.1\The absolute difference.deps.json
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\bin\Debug\netcoreapp3.1\The absolute difference.runtimeconfig.json
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\bin\Debug\netcoreapp3.1\The absolute difference.runtimeconfig.dev.json
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\bin\Debug\netcoreapp3.1\The absolute difference.dll
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\bin\Debug\netcoreapp3.1\The absolute difference.pdb
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\obj\Debug\netcoreapp3.1\The absolute difference.csproj.AssemblyReference.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\obj\Debug\netcoreapp3.1\The absolute difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\obj\Debug\netcoreapp3.1\The absolute difference.AssemblyInfoInputs.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\obj\Debug\netcoreapp3.1\The absolute difference.AssemblyInfo.cs
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\obj\Debug\netcoreapp3.1\The absolute difference.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\obj\Debug\netcoreapp3.1\The absolute difference.dll
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\obj\Debug\netcoreapp3.1\The absolute difference.pdb
+C:\Users\alexd\Desktop\Учеба\УП 01\The absolute difference\The absolute difference\obj\Debug\netcoreapp3.1\The absolute difference.genruntimeconfig.cache
